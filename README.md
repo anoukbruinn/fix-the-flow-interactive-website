@@ -2,19 +2,19 @@
 Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
 De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+# Ophalen stekje
+Hierin wordt duidelijk gemaakt hoe je een stekje kunt reserveren. Dit heb ik gedaan aan de hand van een flowchart. 
 
 ## User Story
-<!-- Schrijf de user story waar je aan hebt gewerkt  -->
+Als buurtbewoner van Amsterdam Oost wil ik kunnen laten weten dat ik een stekje kom ophalen zodat de OBA die apart houdt voor mij
 
 ## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
+Bij mij zijn er op de pagina 3 soorten stekjes te zien. Door op de foto te klikken ga je door naar een andere pagina om vervolgens daar een formulier in te kunnen vullen om het te reserveren. Hier kan je een tijd selecteren wanneer je het kunt ophalen. Ook kun je op de eerste pagina een button aanklikken waardoor je de informatie krijgt over het verzorgen van de plant. 
 <!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+ https://github.com/anoukbruinn
 
 ## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met JS gedaan en hoe? -->
+De technieken die ik heb gebruikt voor deze flow zijn html, css en Javascript.
 
 
 
