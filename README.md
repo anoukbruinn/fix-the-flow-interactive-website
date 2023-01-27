@@ -15,7 +15,9 @@ De pagine ziet er zo uit:
 
 
 Bij mij zijn er op de pagina 3 soorten stekjes te zien. Door op de foto te klikken ga je door naar een andere pagina om vervolgens daar een formulier in te kunnen vullen om het te reserveren. Hier kan je een tijd selecteren wanneer je het kunt ophalen. Ook kun je op de eerste pagina een button aanklikken waardoor je de informatie krijgt over het verzorgen van de plant. 
-<!-- Voeg een mooie poster visual toe 📸 -->
+
+<img width="1680" alt="Schermafbeelding 2023-01-27 om 11 37 45" src="https://user-images.githubusercontent.com/112856687/215066514-089c1d16-7d62-4fb8-b3fe-9c8faffe1cd2.png">
+
 
 https://github.com/anoukbruinn
 
